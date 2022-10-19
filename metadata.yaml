@@ -1,0 +1,26 @@
+_repo: The-Greek-theater-and-its-drama_69095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flickinger, Roy Caston
+    gutenberg_agent_id: '55099'
+    url: http://www.gutenberg.org/2009/agents/55099
+description: ''
+gutenberg_issued: '2022-10-05'
+identifiers:
+  gutenberg: '69095'
+language: en
+pgterms:marc904: https://archive.org/details/greektheateritsd00flicuoft
+pgterms:marc905: 20210316134400flickinger
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :University of Chicago Press,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Greek theater and its drama
+url: http://www.gutenberg.org/ebooks/69095
